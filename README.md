@@ -112,4 +112,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- [Debashish Kumar Bora](github.com/DebashishKumarBora) - Author
+- [Debashish Kumar Bora](https://github.com/DebashishKumarBora) - Author
