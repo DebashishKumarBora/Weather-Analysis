@@ -31,44 +31,53 @@ Summary statistics were calculated for both the hourly and daily datasets to und
 
 ### Temperature Over Time (Hourly)
 
-![Temperature Over Time](path/to/your/temperature_over_time_chart.png)
+![temperature_over_time_hourly](https://github.com/user-attachments/assets/97e3dc80-7231-4c3e-9d6a-fcf276d220ef)
+
 *Description:* This line chart shows the variation in temperature over time for the hourly dataset.
 
 ### Distribution of Temperatures (Hourly)
 
-![Distribution of Temperatures](path/to/your/distribution_of_temperatures_chart.png)
+![Distribution of Temperatures Hourly](https://github.com/user-attachments/assets/4db963e6-915d-4f1c-a04d-7f641628683f)
+
 *Description:* This histogram shows the distribution of temperatures in the hourly dataset.
 
 ## Time Series Analysis
 
+
 ### Seasonal Decomposition
 
-![Seasonal Decomposition](path/to/your/seasonal_decomposition_chart.png)
+![seasonal decomposition](https://github.com/user-attachments/assets/f31b096d-0c83-4537-8de1-1a253cf7bf5d)
+
 *Description:* This plot shows the decomposition of the temperature time series into trend, seasonal, and residual components.
 
 ### Exponential Smoothing Forecast
 
-![Exponential Smoothing Forecast](path/to/your/exponential_smoothing_forecast_chart.png)
+![Screenshot 2024-07-10 235529](https://github.com/user-attachments/assets/ecd5a120-321a-4067-8459-b75d2a211173)
+
 *Description:* This plot shows the observed temperatures and the forecasted values using exponential smoothing.
 
 ### SARIMA Forecast (Recent 5 Days)
 
-![SARIMA Forecast](path/to/your/sarima_forecast_chart.png)
+![Screenshot 2024-07-10 235757](https://github.com/user-attachments/assets/3be18f78-59bc-4be6-a695-187da5b2ac8a)
+
 *Description:* This plot shows the observed temperatures and the forecasted values using the SARIMA model.
 
 ### Moving Average
 
-![Moving Average](path/to/your/moving_average_chart.png)
+![Screenshot 2024-07-11 000028](https://github.com/user-attachments/assets/a5f08ba4-0376-4b82-9503-63fa7d221fa5)
+
+![Screenshot 2024-07-11 000159](https://github.com/user-attachments/assets/0fcb8c80-f5af-4888-893c-ecdbb41df521)
+
 *Description:* This plot shows the temperature time series along with its moving average.
 
 ### Average Temperature by Hour of the Day
 
-![Average Temperature by Hour](path/to/your/average_temperature_by_hour_chart.png)
+![Screenshot 2024-07-11 000258](https://github.com/user-attachments/assets/34050977-71b2-4f52-af58-95b8d5f845e0)
+
 *Description:* This bar chart shows the average temperature for each hour of the day.
 
 ### Temperature vs. Relative Humidity
 
-![Temperature vs. Relative Humidity]
 ![Screenshot 2024-07-11 000521](https://github.com/user-attachments/assets/8fc05090-a4ff-4c77-9851-ab3145a38d64)
 
 *Description:* This scatter plot shows the relationship between temperature and relative humidity.
